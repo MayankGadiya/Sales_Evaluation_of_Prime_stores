@@ -1,7 +1,7 @@
 ### ✤ SALES EVALUATION OF PRIME STORES
 
 ## Objective
-The objective of this Sales evaluation is to examine the orders data to identify trends, patterns, and insights that can help in making data-driven business decisions. The analysis focuses on comparing the performance of various categories over different time periods, specifically between the years 2022 and 2023. Evaluation is performed using Jupyter notebook and verifyung results in SQL.
+The objective of this Sales evaluation is to examine the orders data to identify trends, patterns, and insights that can help in making data-driven business decisions. The analysis focuses on comparing the performance of various categories over different time periods, specifically between the years 2022 and 2023. Evaluation is performed using Jupyter notebook and verifying results in SQL.
 
 ## Insights
 1. **Year-over-Year Growth**:
